@@ -6,4 +6,5 @@ e=(-b+d)/(2*a)
 f=(-b-d)/(2*a)
 print(e)
 print(f)
+print("the roots are",e,f)
 
