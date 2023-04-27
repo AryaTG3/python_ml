@@ -11,7 +11,7 @@ for i in range(board_size):
 # place the treasure on the board
 treasure_row = random.randint(0, board_size-1)
 treasure_col = random.randint(0, board_size-1)
-board[treasure_row][treasure_col] = "X"
+board[treasure_row][treasure_
 
 # set up the player's starting position
 player_row = random.randint(0, board_size-1)

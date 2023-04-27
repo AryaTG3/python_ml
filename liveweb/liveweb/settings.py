@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-oymap*#y5_5+=+5k(k9+dhp*ce7c=%mqjkyqxy*2z0w+e$4u!i
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
